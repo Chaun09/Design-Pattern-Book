@@ -120,5 +120,6 @@ Sử dụng Behavioral Patterns giúp tạo hệ thống linh hoạt, dễ thay 
 Khi áp dụng Design Pattern, các lập trình viên cần lưu ý những điểm sau:
 
 - **Không nên áp dụng Design Pattern một cách cứng nhắc:** Design Pattern là một giải pháp tổng thể, không phải là một giải pháp hoàn hảo. Các lập trình viên cần linh hoạt trong việc áp dụng Design Pattern để phù hợp với nhu cầu cụ thể của dự án.
-- **Không nên làm dụng Design Pattern:** Design pattern không phải là một giải pháp cho mọi vấn đề. Các lập trình viên chỉ nên áp dụng Design Pattern khi nó thực sự cần thiết.
+- **Không nên lạm dụng Design Pattern:** Design pattern không phải là một giải pháp cho mọi vấn đề. Các lập trình viên chỉ nên áp dụng Design Pattern khi nó thực sự cần thiết.
+
 - **Cần có thời gian để học hỏi và nghiên cứu Design Pattern:** Design Pattern là một kỹ thuật phức tạp, cần có thời gian để học hỏi và nghiên cứu. Các lập trình viên không nên vội vàng áp dụng Design Pattern mà không hiểu rõ bản chất và cách hoạt động của nó.
